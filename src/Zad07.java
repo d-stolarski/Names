@@ -18,5 +18,6 @@ public class Zad07 {
         for (int i = 4; i >= 0; i--) {
             System.out.println("Cześć " + names[i]);
         }
+        scan.close();
     }
 }
